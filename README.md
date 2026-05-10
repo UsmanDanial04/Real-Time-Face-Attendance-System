@@ -216,11 +216,11 @@ Open a Pull Request
 
  This project is licensed under the MIT License - see the LICENSE file for details.
 👨‍💻 Author
-Muhammad Ahmad Asif
+Usman Danial
 
-GitHub: @ahmadXplore
+GitHub: https://github.com/UsmanDanial04
 
-LinkedIn: www.linkedin.com/in/muhammad-ahmad-23a3223a0
+LinkedIn: www.linkedin.com/in/usman-danial-b4568b289
 
 # 🙏 Acknowledgments
 
@@ -238,5 +238,5 @@ For issues and questions:
 
 <div align="center">
 ⭐ Star this repository if you find it helpful!
-Made with ❤️ by [Your Name]
+Made with ❤️ by Usman Danial
 </div>
